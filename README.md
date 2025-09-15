@@ -1,6 +1,13 @@
 # Scrum Project - IT-B2-23
 
 ## Getting started
+
+### Requirements
+Before starting development, some requirements need to be fulfilled for this project to work properly:
+
+- [Docker engine (CLI)](https://docs.docker.com/engine/install/)
+- [Docker compose](https://docs.docker.com/compose/install/)
+
 In order to start contributing to this project, first clone the repository to your machine by running the following command in your desired directory through the terminal:
 ```shell
 git clone https://github.com/JoseEscauriza/Scrum_Project.git
