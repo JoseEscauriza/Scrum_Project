@@ -42,6 +42,17 @@ It takes one argument, which is the model to be pulled. The following command wo
 ```
 Running the project in its default state requires running the previous command, since index.php includes a prompt using llama3.2 as its model.
 
+#### Compose
+Finally, in order to install some needed dependencies, run:
+```shell
+composer install
+```
+
+And finish up by running the following command, to ensure all containers are running and up to date:
+```shell
+docker compose up -d
+```
+
 ### Available routes
 
 You now have access to two different sites by entering the following addresses in your browser of choice:
